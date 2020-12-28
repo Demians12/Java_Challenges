@@ -11,3 +11,6 @@ Write a Java program to retrieve an element (at a specified index) from a given 
 
 Exercicio4:
 Write a Java program to remove the third element from a array list.
+
+Exercicio5:
+Write a Java program to sort a given array list
